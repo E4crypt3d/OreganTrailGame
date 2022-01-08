@@ -1,3 +1,4 @@
+#By E4crypt3d
 print("Welcome to the Oregan Trail Game")
 print("You set off west with your family")
 input("PRESS ANY KEY TO START THE GAME")
